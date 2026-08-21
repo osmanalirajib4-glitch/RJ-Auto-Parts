@@ -1,0 +1,8 @@
+{
+  "name": "RJ Auto Parts",
+  "description": "Full-stack dynamic e-commerce platform for RJ Auto Parts with BDT (৳) currency, shopping cart, checkout, and complete Admin Dashboard controlling products, orders, inventory, categories, hero banners, and store settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
